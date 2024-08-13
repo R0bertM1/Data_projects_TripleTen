@@ -1,7 +1,5 @@
 pandas
-numpy
+matplotlib
 scikit-learn
 lightgbm
-matplotlib
-seaborn
-jupyter
+time
