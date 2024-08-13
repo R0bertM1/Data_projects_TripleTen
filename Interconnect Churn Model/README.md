@@ -2,8 +2,8 @@
 Project Description
 
 The Interconnect Churn Model is designed to predict customer churn for a telecommunications company, allowing them to identify at-risk customers and take preventive actions. This project leverages machine learning techniques to analyze customer data and provide actionable insights for retaining valuable customers.
-
 Data was provided by TripleTen
+
 Key Features:
 
     Data preprocessing and cleaning to prepare the dataset for modeling.
