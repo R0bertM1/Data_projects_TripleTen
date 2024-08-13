@@ -2,6 +2,9 @@
 Project Description
 
 The Negative Review Detection Model is designed to identify and classify negative reviews from a large dataset of customer feedback. This project leverages natural language processing (NLP) techniques to automatically detect sentiment in text, providing businesses with valuable insights to address customer concerns and improve overall satisfaction.
+
+Data was provided by TripleTen.
+
 Key Features:
 
     Text preprocessing including tokenization, stopword removal, and stemming/lemmatization.
