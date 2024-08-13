@@ -5,3 +5,4 @@ lightgbm
 matplotlib
 seaborn
 jupyter
+statsmodels
