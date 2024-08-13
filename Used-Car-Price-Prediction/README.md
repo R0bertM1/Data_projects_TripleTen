@@ -2,6 +2,9 @@
 Project Description
 
 The Used Car Price Prediction project aims to create a reliable machine learning model that can estimate the market value of used cars based on historical data, including technical specifications, trim versions, and prices. This project addresses the common problem faced by both sellers and buyers in determining the accurate value of used vehicles, helping to prevent undervaluation or overpricing.
+
+Data was provided by TripleTen.
+
 Key Features:
 
     Data preprocessing and cleaning to ensure high-quality inputs.

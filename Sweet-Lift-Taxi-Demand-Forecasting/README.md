@@ -2,6 +2,9 @@
 Project Description
 
 This project aims to forecast taxi demand for Sweet Lift Taxi service during peak hours using historical data. By accurately predicting the number of taxi orders for the next hour, the company can better manage resources, reduce wait times, and improve customer satisfaction.
+
+Data was provided by TripleTen.
+
 Key Features:
 
     Data preprocessing and resampling by hour to prepare time series data for modeling.
