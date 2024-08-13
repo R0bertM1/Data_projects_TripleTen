@@ -6,3 +6,7 @@ spacy
 matplotlib
 seaborn
 jupyter
+math
+spacy
+tqdm
+lightgbm
